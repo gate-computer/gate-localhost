@@ -11,7 +11,7 @@ require (
 	gate.computer/wag v0.35.0 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
 	github.com/godbus/dbus/v5 v5.0.4 // indirect
-	golang.org/x/sys v0.0.0-20220209214540-3681064d5158 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/grpc v1.44.0 // indirect
 	import.name/lock v0.0.0-20211205191324-f24933776f0b // indirect
 	kernel.org/pub/linux/libs/security/libcap/cap v1.2.63 // indirect
